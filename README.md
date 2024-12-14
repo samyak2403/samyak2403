@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/samyakkamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samyakkamble" height="30" width="40" /></a>
 <a href="https://fb.com/samyakkamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samyakkamble" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_samyakkamble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_samyakkamble" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCo9rCmQQU34YL1FEipmXUFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_samyakkamble" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/UCo9rCmQQU34YL1FEipmXUFQ](https://www.youtube.com/@arrowwouldcoders)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_samyakkamble" height="30" width="40" /></a>
 </p>
 
 
